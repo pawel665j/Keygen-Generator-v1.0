@@ -22,10 +22,13 @@ __pycache__/
 *.temp
 ~*
 
-# Сгенерированные файлы
+# Сгенерированные файлы (кроме Fonts)
 generated/
 *.json
 
 # Системные файлы Windows
 Thumbs.db
 .DS_Store
+
+# Исключение для Fonts (если нужно)
+!important Fonts/
