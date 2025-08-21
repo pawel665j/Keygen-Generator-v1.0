@@ -1,0 +1,31 @@
+# Виртуальная среда
+venv/
+env/
+ENV/
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc.*
+
+# Файлы среды
+.env
+.venv
+
+# Логи
+*.log
+
+# Временные файлы
+*.tmp
+*.temp
+~*
+
+# Сгенерированные файлы
+generated/
+*.json
+
+# Системные файлы Windows
+Thumbs.db
+.DS_Store
